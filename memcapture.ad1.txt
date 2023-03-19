@@ -1,0 +1,23 @@
+﻿Created By AccessData® FTK® Imager 3.1.2.0 
+
+Case Information: 
+Case Number: 
+Evidence Number: 
+Unique Description: 
+Examiner: 
+Notes: 
+
+--------------------------------------------------------------
+
+Information for C:\Users\maree\Desktop\repo int ca 301\memcapture.ad1:
+[Computed Hashes]
+ MD5 checksum:    c1c0ca48e6c1c6099b4228088fcf230e
+ SHA1 checksum:   aea9df6489c30892c016e22e4c25a4a630b3cc32
+
+Image information:
+ Acquisition started:   Sat Mar 18 13:57:56 2023
+ Acquisition finished:  Sat Mar 18 14:10:38 2023
+ Segment list:
+  C:\Users\maree\Desktop\repo int ca 301\memcapture.ad1
+  C:\Users\maree\Desktop\repo int ca 301\memcapture.ad2
+  C:\Users\maree\Desktop\repo int ca 301\memcapture.ad3
